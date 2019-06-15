@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Cloudmanic | Nginx PHP 7.2.18 Blah</title>
+<title>Cloudmanic | Nginx PHP 7.2.18</title>
 <style>
     body {
         text-align: center;
